@@ -6,3 +6,4 @@ message = "Bonjour :)  " + " ".join(noms)
 
 # Affichage du message
 print(message)
+
