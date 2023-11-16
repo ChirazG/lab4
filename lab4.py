@@ -4,7 +4,9 @@
 noms = ["Shiraz", "Rabiaa", "Othmen", "Hassen BENGAMRA"]
 
 # Concaténation des noms avec l'espace " "
-message = "Bonjour :)  " + " ".join(noms)
+
+message = "Bonsoir c est rabiaa :) " + " ".join(noms)
+message + ="hizi" 
 
 # Affichage du message
 print(message)
