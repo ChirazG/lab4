@@ -1,8 +1,8 @@
 # Programme Python
-noms = ["Shiraz", "Rabiaa", "Othmen", "Hassen"]
+noms = ["Shiraz", "Rabiaa", "Othman Mestiri", "Hassen"]
 
 # Concaténation des noms avec l'espace " "
-message = "Bonsoir ! c'est Othman  " + " ".join(noms)
+message = "Bonjour :) c'est Othman  " + " ".join(noms)
 
 # Affichage du message
 print(message)
