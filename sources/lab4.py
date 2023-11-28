@@ -12,3 +12,4 @@ message + ="hizi"
 # Affichage du message
 print(message)
 
+print ('hello!')
